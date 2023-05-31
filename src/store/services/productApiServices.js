@@ -9,5 +9,6 @@ export const ProductApiServices = {
       },
     });
     console.log(res);
+    return res
   },
 };
