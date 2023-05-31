@@ -20,7 +20,6 @@ export const productListSlice = createSlice({
     },
     getProductListFailure(state, action) {
       state.status = "Failed";
-      state.error = action.payload;
     },
   },
 });
