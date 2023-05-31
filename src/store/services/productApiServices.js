@@ -8,5 +8,6 @@ export const ProductApiServices = {
         "Secret-Key": "cs_c09f4671722747f4942c1000cb68a0a01b733cc3",
       },
     });
+    console.log(res);
   },
 };
