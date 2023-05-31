@@ -1,0 +1,13 @@
+.inputs {
+  margin: 5px;
+}
+
+.button1 {
+  font-weight: bold;
+  margin-left: 5px;
+  margin-top: 5px;
+  font-size: 15px;
+  color: white;
+  background-color: rgb(43, 101, 148);
+  border: none;
+}
